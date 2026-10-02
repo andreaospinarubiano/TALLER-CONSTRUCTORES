@@ -1,0 +1,15 @@
+bin/
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# VS Code workspace files, except shared project settings
+.vscode
+!.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
